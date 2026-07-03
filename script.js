@@ -1,1 +1,1 @@
-// No JavaScript required for Formspree submission.
+No JavaScript required for Formspree submission.
